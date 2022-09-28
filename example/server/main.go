@@ -24,8 +24,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 
-	"github.com/shimingyah/pool"
-	"github.com/shimingyah/pool/example/pb"
+	pool "github.com/isayme/go-grpcpool"
+	"github.com/isayme/go-grpcpool/example/pb"
 )
 
 var port = flag.Int("port", 50000, "port number")

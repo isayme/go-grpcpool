@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shimingyah/pool/example/pb"
+	"github.com/isayme/go-grpcpool/example/pb"
 	"github.com/stretchr/testify/require"
 )
 
