@@ -1,4 +1,4 @@
-module github.com/shimingyah/pool
+module github.com/isayme/go-grpcpool
 
 go 1.12
 
